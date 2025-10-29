@@ -1,9 +1,12 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Cecil Mhike, and i am a Ms in Electrical and Computer Engineering Student at Michigan Technological University. I am interested in Python, Robotics, Automation, Large Language Models & Embedded systems!
 
+- 🔭 I’m currently working on developing a Large Language Model finetuned on timeless voices of fiction.
+- 🌱 I recently performed data cleaning using Pandas, SQL, SSIS and NumPy.
+- 🌱 I recently a 4 bit Full Adder using CMOS technology.
+- 👯 I’m looking to collaborate on any project that you think i might be of help with.
+  - You can email me on cecilmhike911@gmail.com
 
 <!--
 **Ctmhike/Ctmhike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
