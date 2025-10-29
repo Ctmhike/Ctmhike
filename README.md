@@ -4,7 +4,7 @@ My name is Cecil Mhike, and i am a Ms in Electrical and Computer Engineering Stu
 
 - 🔭 I’m currently working on developing a Large Language Model finetuned on timeless voices of fiction.
 - 🌱 I recently performed data cleaning using Pandas, SQL, SSIS and NumPy.
-- 🌱 I recently a 4 bit Full Adder using CMOS technology.
+- 🌱 I recently designed a 4 bit Full Adder using CMOS technology.
 - 👯 I’m looking to collaborate on any project that you think i might be of help with.
   - You can email me on cecilmhike911@gmail.com
 
