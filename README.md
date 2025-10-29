@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-My name is Cecil Mhike, and i am a Ms in Electrical and Computer Engineering Student at Michigan Technological University. I am interested in Python, Robotics, Automation, Large Language Models & Embedded systems!
+My name is Cecil Mhike, and i am a Ms in Electrical and Computer Engineering Student at Michigan Technological University. 
+I am interested in Python, Robotics, Automation, Large Language Models & Embedded systems!
 
 - 🔭 I’m currently working on developing a Large Language Model finetuned on timeless voices of fiction.
 - 🌱 I recently performed data cleaning using Pandas, SQL, SSIS and NumPy.
 - 🌱 I recently designed a 4 bit Full Adder using CMOS technology.
+- 🌱 I recently developed a POP3 Client Server application. USER = Networks and Password = 2025. 
 - 👯 I’m looking to collaborate on any project that you think i might be of help with.
   - You can email me on cecilmhike911@gmail.com
 
