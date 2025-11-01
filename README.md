@@ -2,9 +2,11 @@
 
 My name is Cecil Mhike, and i am a Ms in Electrical and Computer Engineering Student at Michigan Technological University. 
 I am interested in Python, Robotics, Automation, Large Language Models & Embedded systems!
+I am AWS and Azure certified with aim of getting a CCNA before year end.
 
-- 🔭 I’m currently working on developing "The Narator" - a Large Language Model finetuned on timeless voices of fiction.
-- 🌱 I recently designed a 4 bit Full Adder using CMOS technology.
+- 🔭 I’m currently advancing my knowledge in LLMs using python, huggingFace and advancing Automation knowledge using Open PLC software.
+- 🌱 I recently designed a 4 bit Full Adder using in Cadence Virtuoso using the XOR, AND, OR gates.
+- 🌱 I recently tested how the amount of data affects the way a LLM predicts the next word.
 - 👯 I’m looking to collaborate on any project that you think i might be of help with.
   - You can email me on cecilmhike911@gmail.com
 
