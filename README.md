@@ -1,10 +1,11 @@
 ## Hi there, Just Smile and Be Happy 😄
 
 My name is Cecil Mhike. I am a Ms in Electrical and Computer Engineering Student at Michigan Technological University. 
-I am interested in BAS, HVAC, Automation (PLCs and Control Systems), Robotics using ROS2.
-I am AWS, PLC, SQL, Git, HVAC Systems and Azure certified.
+I am interested in Circuit Design & Analysis, HVAC BMS, Automation (PLCs and Control Systems).
+I am AWS, PLC, SQL, Git, HVAC Systems, MATLAB and Azure certified.
 
-- 🔭 I’m currently advancing my knowledge in AI application in Industrial Automation, Industrial Motor Robotics using ROS2 for node creation & Git-Linux for collaboration, and PLC (Siemens, Allen Bradley, Delta).
+- 🔭 I am intrested in Industrial Automation, PLC Programming, PID Control and Circuit Analysis.
+- 🌱 Developed a closed-loop PWM voltage regulation system using PID control, including duty-cycle saturation logic to prevent instability and ensure safe operation.
 - 🌱 I Designed a High Availability Motor Control System with Automatic Failover, Trip Interlocks and Alarm Management.
 - 🌱 Recently designed a 4 bit Full Adder using in Cadence Virtuoso using the XOR, AND, OR gates as a group project.
 - 🌱 I Designed and tested a 3-phase motor control system (FW/BW + DOL) with interlocking and overload protection, and evaluated star–delta vs VFD methods for inrush-current reduction.
